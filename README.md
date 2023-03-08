@@ -1,3 +1,3 @@
 # MyFirstRepository
 My first repository
-Test, test, test
+This repository is a first try. Nothing to see here.
